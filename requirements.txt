@@ -1,0 +1,3 @@
+pip install telethon
+rm bot_session.session
+python bot.py
